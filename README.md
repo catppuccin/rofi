@@ -2,6 +2,8 @@
 
 A simple but cool catppuccin port for rofi
 
+![preview](./.misc/screenshot.png)
+
 ## Credits
 
 - [Siduck](https://github.com/siduck) I take his rofi theme and convert it to catppuccin
