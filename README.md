@@ -12,7 +12,7 @@ Clone the repository:
 
 ```sh
 git clone https://github.com/AlphaTechnolog/rofi-catppuccin ./.catppuccin-rofi
-cd ./catppuccin-rofi
+cd ./.catppuccin-rofi
 ```
 
 Then create the appropiate folders:
@@ -25,7 +25,7 @@ Then copy the files:
 
 ```sh
 cp -r ./.config/rofi/* ~/.config/rofi
-cp -r ./.local/share/rofi/themes/* ~/.local/share/rofi/themes/*
+cp -r ./.local/share/rofi/themes/* ~/.local/share/rofi/themes/
 ```
 
 ## Usage
