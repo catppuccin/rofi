@@ -47,7 +47,7 @@ Then simply run `rofi -show drun`
 
 ## 💝 Thanks to
 
-- [Human](https://github.com/catppuccin)
+- [AlphaTechnolog](https://github.com/AlphaTechnolog)
 
 &nbsp;
 
