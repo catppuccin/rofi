@@ -6,13 +6,13 @@
 </h3>
 
 <p align="center">
-    <a href="https://github.com/AlphaTechnolog/rofi/stargazers"><img src="https://img.shields.io/github/stars/AlphaTechnolog/rofi?colorA=1e1e28&colorB=c9cbff&style=for-the-badge&logo=starship style=for-the-badge"></a>
-    <a href="https://github.com/AlphaTechnolog/rofi/issues"><img src="https://img.shields.io/github/issues/AlphaTechnolog/rofi?colorA=1e1e28&colorB=f7be95&style=for-the-badge"></a>
-    <a href="https://github.com/AlphaTechnolog/rofi/contributors"><img src="https://img.shields.io/github/contributors/AlphaTechnolog/rofi?colorA=1e1e28&colorB=b1e1a6&style=for-the-badge"></a>
+    <a href="https://github.com/catppuccin/rofi/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/rofi?colorA=1e1e28&colorB=c9cbff&style=for-the-badge&logo=starship style=for-the-badge"></a>
+    <a href="https://github.com/catppuccin/rofi/issues"><img src="https://img.shields.io/github/issues/catppuccin/rofi?colorA=1e1e28&colorB=f7be95&style=for-the-badge"></a>
+    <a href="https://github.com/catppuccin/rofi/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/rofi?colorA=1e1e28&colorB=b1e1a6&style=for-the-badge"></a>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AlphaTechnolog/rofi/main/.misc/screenshot.png" />
+  <img src="https://raw.githubusercontent.com/catppuccin/rofi/main/.misc/screenshot.png" />
 </p>
 
 A simple but cool catppuccin port for rofi
@@ -26,7 +26,7 @@ A simple but cool catppuccin port for rofi
 Clone the repository:
 
 ```sh
-git clone https://github.com/AlphaTechnolog/rofi ./.catppuccin-rofi
+git clone https://github.com/catppuccin/rofi ./.catppuccin-rofi
 cd ./.catppuccin-rofi
 ```
 
@@ -47,7 +47,7 @@ Then simply run `rofi -show drun`
 
 ## 💝 Thanks to
 
-- [AlphaTechnolog](https://github.com/AlphaTechnolog)
+- [catppuccin](https://github.com/catppuccin)
 
 &nbsp;
 
