@@ -23,6 +23,13 @@ A simple but cool catppuccin port for rofi
 
 ## Usage
 
+First you need to install a nerd font in the [nerdfonts page](https://www.nerdfonts.com/font-downloads)
+the default font is JetBrainsMono Nerd Font, but you can install another and then edit the theme
+to set it
+
+The file you need to edit is `.config/rofi/config.rasi` and change JetBrainsMono Nerd Font
+to your font.
+
 Clone the repository:
 
 ```sh
