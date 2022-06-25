@@ -15,19 +15,19 @@
   <img src="https://raw.githubusercontent.com/catppuccin/rofi/main/.misc/screenshot.png" />
 </p>
 
-A simple but cool catppuccin port for rofi
+A simple but cool catppuccin port of rofi
 
 ## Credits
 
-- [Siduck](https://github.com/siduck) I take his rofi theme and convert it to catppuccin
+- [Siduck](https://github.com/siduck) This is a port based on the original configuration.
 
 ## Usage
 
-First you need to install a nerd font in the [nerdfonts page](https://www.nerdfonts.com/font-downloads)
-the default font is JetBrainsMono Nerd Font, but you can install another and then edit the theme
-to set it
+First you will need to install a nerd font from the [nerdfonts page](https://www.nerdfonts.com/font-downloads)
+the default font is J`etBrainsMono Nerd Font`, but you can install any other one and then edit the theme
+to change it.
 
-The file you need to edit is `.config/rofi/config.rasi` and change JetBrainsMono Nerd Font
+The file you need to edit is `.config/rofi/config.rasi` and change the `JetBrainsMono Nerd Font`
 to your font.
 
 Clone the repository:
