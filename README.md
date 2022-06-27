@@ -24,7 +24,7 @@ A simple but cool catppuccin port of rofi
 ## Usage
 
 First you will need to install a nerd font from the [nerdfonts page](https://www.nerdfonts.com/font-downloads)
-the default font is J`etBrainsMono Nerd Font`, but you can install any other one and then edit the theme
+the default font is `JetBrainsMono Nerd Font`, but you can install any other one and then edit the theme
 to change it.
 
 The file you need to edit is `.config/rofi/config.rasi` and change the `JetBrainsMono Nerd Font`
