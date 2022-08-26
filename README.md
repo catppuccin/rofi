@@ -23,7 +23,7 @@ A Catppuccin Port based on [Siduck](https://github.com/siduck)'s dotfiles.
 #### [Deathemonic](https://github.com/catppuccin/rofi/main/Deathemonic)
 A custom rofi theme based on [Deathemonic](https://github.com/Deathemonic/Cat-Dots/tree/v1.4/config/rofi)'s dotfiles including an application launcher, screenshot-, power-, and runmenu.
 <p align="center">
-	<img src="https://raw.githubusercontent.com/catppuccin/rofi/main/Deathemonic/assets/rofi-launcher"/>
+	<img src="https://raw.githubusercontent.com/catppuccin/rofi/main/Deathemonic/assets/rofi-launcher.png"/>
 </p>
 
 ## 💝 Thanks to

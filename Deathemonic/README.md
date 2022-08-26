@@ -12,10 +12,10 @@
 </p>
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/catppuccin/rofi/main/Deathemonic/assets/rofi-launcher.png"/>
-	<img src="https://raw.githubusercontent.com/catppuccin/rofi/main/Deathemonic/assets/rofi-powermenu.png"/>
-	<img src="https://raw.githubusercontent.com/catppuccin/rofi/main/Deathemonic/assets/rofi-runmenu.png"/>
-	<img src="https://raw.githubusercontent.com/catppuccin/rofi/main/Deathemonic/assets/rofi-screenshot.png"/>
+	<img src="https://raw.githubusercontent.com/catppuccin/rofi/main/Deathemonic/assets/rofi-launcher.png"/></br>
+	<img src="https://raw.githubusercontent.com/catppuccin/rofi/main/Deathemonic/assets/rofi-powermenu.png"/></br>
+	<img src="https://raw.githubusercontent.com/catppuccin/rofi/main/Deathemonic/assets/rofi-runmenu.png"/></br>
+	<img src="https://raw.githubusercontent.com/catppuccin/rofi/main/Deathemonic/assets/rofi-screenshot.png"/></br>
 </p>
 
 ## Usage
