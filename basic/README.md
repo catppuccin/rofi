@@ -12,10 +12,7 @@
 </p>
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/catppuccin/rofi/main/Deathemonic/assets/rofi-launcher.png"/>
-	<img src="https://raw.githubusercontent.com/catppuccin/rofi/main/Deathemonic/assets/rofi-powermenu.png"/>
-	<img src="https://raw.githubusercontent.com/catppuccin/rofi/main/Deathemonic/assets/rofi-runmenu.png"/>
-	<img src="https://raw.githubusercontent.com/catppuccin/rofi/main/Deathemonic/assets/rofi-screenshot.png"/>
+	<img src="https://github.com/catppuccin/rofi/raw/main/assets/basic.png"/>
 </p>
 
 ## Usage
@@ -25,7 +22,7 @@ The default font is `JetBrainsMono Nerd Font`, but you can install any other one
 to change it.
 
 The file you need to edit is `.config/rofi/config.rasi` and change the `JetBrainsMono Nerd Font`
-to your font and change the `terminal: "st"` to your own prefered terminal. 
+to your font and change the `terminal: "st"` to your own preferred terminal. 
 
 ### Install
 

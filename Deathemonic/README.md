@@ -12,10 +12,10 @@
 </p>
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/catppuccin/rofi/main/Deathemonic/assets/rofi-launcher.png"/></br>
-	<img src="https://raw.githubusercontent.com/catppuccin/rofi/main/Deathemonic/assets/rofi-powermenu.png"/></br>
-	<img src="https://raw.githubusercontent.com/catppuccin/rofi/main/Deathemonic/assets/rofi-runmenu.png"/></br>
-	<img src="https://raw.githubusercontent.com/catppuccin/rofi/main/Deathemonic/assets/rofi-screenshot.png"/></br>
+	<img src="https://raw.githubusercontent.com/catppuccin/rofi/main/assets/deathemonic-rofi-launcher.png"/></br>
+	<img src="https://raw.githubusercontent.com/catppuccin/rofi/main/assets/deathemonic-rofi-powermenu.png"/></br>
+	<img src="https://raw.githubusercontent.com/catppuccin/rofi/main/assets/deathemonic-rofi-runmenu.png"/></br>
+	<img src="https://raw.githubusercontent.com/catppuccin/rofi/main/assets/deathemonic-rofi-screenshot.png"/></br>
 </p>
 
 ## Usage
@@ -43,8 +43,6 @@ Key | Action |
 |Meta + R| Open the Run Menu (Run Commands without opening a terminal)|
 |Meta + P | Open the Powermenu |
 |Meta + S | Open the Screenshot Menu |
-
-
 
 ## 💝 Thanks to
 
