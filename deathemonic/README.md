@@ -22,7 +22,7 @@
 
 1. Clone this repository locally
 ```sh
-git clone https://github.com/catppuccin/rofi && cd rofi/Deathemonic
+git clone https://github.com/catppuccin/rofi && cd rofi/deathemonic
 ```
 
 2. Copy the content of this Theme to Rofi's config location
