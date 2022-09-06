@@ -6,10 +6,10 @@
 _rofi="$HOME/.config/rofi"
 _theme="$HOME/.local/share/rofi/themes"
 
-if [[ ! -d "$_rofi" && ! -d "$_theme" ]]; then
+if [[ ! -d "$_rofi" || ! -d "$_theme" ]]; then
     mkdir -p "$_rofi" "$_theme"
 else
-    mkdir "$_rofi/userconfig/"
+    mkdir -p "$_rofi/userconfig/"
     mv "$_rofi/config.rasi" "$_rofi/userconfig/"
 fi
 
