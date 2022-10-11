@@ -17,14 +17,30 @@ There are multiple Themes available for rofi:
 #### [Basic](https://github.com/catppuccin/rofi/tree/main/basic)
 A Catppuccin Port based on [Siduck](https://github.com/siduck)'s dotfiles.
 <p align="center">
-  <img src="https://raw.githubusercontent.com/catppuccin/rofi/main/assets/basic.png" />
+  <img src="assets/res.webp"/>
 </p>
+
+## Previews
+
+<details>
+<summary>🌻 Latte</summary>
+<img src="assets/latte.webp"/>
+</details>
+<details>
+<summary>🪴 Frappé</summary>
+<img src="assets/frappe.webp"/>
+</details>
+<details>
+<summary>🌺 Macchiato</summary>
+<img src="assets/macchiato.webp"/>
+</details>
+<details>
+<summary>🌿 Mocha</summary>
+<img src="assets/mocha.webp"/>
+</details>
 
 #### [Deathemonic](https://github.com/catppuccin/rofi/tree/main/deathemonic)
 A custom rofi theme based on [Deathemonic](https://github.com/deathemonic/Cat-Dots/tree/v1.4/config/rofi)'s dotfiles including an application launcher, screenshot-, power-, and runmenu.
-<p align="center">
-	<img src="https://raw.githubusercontent.com/catppuccin/rofi/main/assets/deathemonic-rofi-launcher.png"/>
-</p>
 
 ## 💝 Thanks to
 
