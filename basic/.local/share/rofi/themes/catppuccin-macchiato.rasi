@@ -92,6 +92,6 @@ button {
 }
 
 button selected {
-  background-color: @blue;
-  text-color: @fg-col;
+  background-color: @bg-col;
+  text-color: @blue;
 }
