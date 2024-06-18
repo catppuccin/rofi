@@ -32,7 +32,7 @@ prompt {
 
 textbox-prompt-colon {
     expand: 			            false;
-    str: 			                "ﲵ";
+    str: 			                "󰞷";
     border-radius:                  100%;
     background-color:               @BG;
     text-color:                     @FG;
