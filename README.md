@@ -42,6 +42,10 @@ A Catppuccin Port based on [Siduck](https://github.com/siduck)'s dotfiles.
 #### [Deathemonic](https://github.com/catppuccin/rofi/tree/main/deathemonic)
 A custom rofi theme based on [Deathemonic](https://github.com/deathemonic/Cat-Dots/tree/v1.4/config/rofi)'s dotfiles including an application launcher, screenshot-, power-, and runmenu.
 
+## Requirements
+- Rofi
+- A font patched with v3.2.1 version of nerdfonts, older or newer likely to work but untested
+
 ## 💝 Thanks to
 
 - [AlphaTechnolog](https://github.com/AlphaTechnolog)
