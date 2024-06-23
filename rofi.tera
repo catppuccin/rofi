@@ -1,12 +1,19 @@
+---
+whiskers:
+  version: 2.4.0
+  matrix:
+    - flavor
+  filename: "basic/.local/share/rofi/themes/catppuccin-{{ flavor.identifier }}.rasi"
+---
 * {
-    bg-col:  #24273a;
-    bg-col-light: #24273a;
-    border-col: #24273a;
-    selected-col: #24273a;
-    blue: #8aadf4;
-    fg-col: #cad3f5;
-    fg-col2: #ed8796;
-    grey: #6e738d;
+    bg-col:  #{{ base.hex }};
+    bg-col-light: #{{ base.hex }};
+    border-col: #{{ base.hex }};
+    selected-col: #{{ base.hex }};
+    blue: #{{ blue.hex }};
+    fg-col: #{{ text.hex }};
+    fg-col2: #{{ red.hex }};
+    grey: #{{ overlay0.hex }};
 
     width: 600;
     font: "JetBrainsMono Nerd Font 14";
