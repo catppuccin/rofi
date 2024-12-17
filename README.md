@@ -11,46 +11,23 @@
     <a href="https://github.com/catppuccin/rofi/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/rofi?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
-## Themes
-There are multiple Themes available for rofi:
-
-#### [Basic](https://github.com/catppuccin/rofi/tree/main/basic)
-A Catppuccin Port based on [Siduck](https://github.com/siduck)'s dotfiles.
-<p align="center">
-  <img src="assets/res.webp"/>
-</p>
-
-## Previews
-
-<details>
-<summary>🌻 Latte</summary>
-<img src="assets/latte.webp"/>
-</details>
-<details>
-<summary>🪴 Frappé</summary>
-<img src="assets/frappe.webp"/>
-</details>
-<details>
-<summary>🌺 Macchiato</summary>
-<img src="assets/macchiato.webp"/>
-</details>
-<details>
-<summary>🌿 Mocha</summary>
-<img src="assets/mocha.webp"/>
-</details>
-
-#### [Deathemonic](https://github.com/catppuccin/rofi/tree/main/deathemonic)
-A custom rofi theme based on [Deathemonic](https://github.com/deathemonic/Cat-Dots/tree/v1.4/config/rofi)'s dotfiles including an application launcher, screenshot-, power-, and runmenu.
+## Usage
+1. Download the file with your desired flavour e.g. `catppuccin-mocha.rasi` (which is found 
+   in the release or after cloning the repository in themes/ )
+2. Copy it into your rofi config directory ( by default it's `~/.config/rofi` )
+3. make to import before your theme configuration. e.g. `@import "catppuccin-mocha"`
 
 ## Requirements
 - Rofi
 - A font patched with v3.2.1 version of nerdfonts, older or newer likely to work but untested
 
+##
+
 ## 💝 Thanks to
 
 - [AlphaTechnolog](https://github.com/AlphaTechnolog)
 - [justTOBBI](https://github.com/justTOBBI)
-
+- [Mayro](https://github.com/0xmayro)
 &nbsp;
 
 <p align="center">
