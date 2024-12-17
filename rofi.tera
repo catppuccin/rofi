@@ -7,14 +7,7 @@ whiskers:
 ---
 * {
   {% for name,color in flavor.colors -%}
-    {{ name }}: #{{ color.hex }}
+    {{ name }}: #{{ color.hex }};
   {% endfor -%}
 }
 
-window, element-list {
-
-}
-
-element {
-
-}
