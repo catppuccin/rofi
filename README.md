@@ -13,15 +13,10 @@
 
 ## Usage
 1. Download the file with your desired flavour e.g. `catppuccin-mocha.rasi` (which is found 
-   in the release or after cloning the repository in themes/ )
+   in the repository under the `themes` directory )
 2. Copy it into your rofi config directory ( by default it's `~/.config/rofi` )
-3. make to import before your theme configuration. e.g. `@import "catppuccin-mocha"`
-
-## Requirements
-- Rofi
-- A font patched with v3.2.1 version of nerdfonts, older or newer likely to work but untested
-
-##
+3. make sure to import the palette file before your theme configuration. e.g. `@import "catppuccin-mocha"`
+4. optionally you can also copy `catppuccin-default` which is the default Rofi theme with catppuccin colors. then set it as your theme in the config file. `@theme "catppuccin-default"`
 
 ## 💝 Thanks to
 
