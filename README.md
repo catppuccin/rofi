@@ -6,9 +6,13 @@
 </h3>
 
 <p align="center">
-    <a href="https://github.com/catppuccin/rofi/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/rofi?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
-    <a href="https://github.com/catppuccin/rofi/issues"><img src="https://img.shields.io/github/issues/catppuccin/rofi?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
-    <a href="https://github.com/catppuccin/rofi/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/rofi?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+  <a href="https://github.com/catppuccin/rofi/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/rofi?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+  <a href="https://github.com/catppuccin/rofi/issues"><img src="https://img.shields.io/github/issues/catppuccin/rofi?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
+  <a href="https://github.com/catppuccin/rofi/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/rofi?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+</p>
+
+<p align="center">
+  <img src="assets/preview.webp"/>
 </p>
 
 ## Previews
@@ -31,8 +35,7 @@
 </details>
 
 ## Usage
-1. Download the file with your desired flavour e.g. `catppuccin-mocha.rasi` (which is found 
-   in the repository under the `themes` directory )
+1. Download the file with your desired flavour e.g. `catppuccin-mocha.rasi` ( which is found in the repository under the `themes` directory )
 2. Copy it into your rofi config directory ( by default it's `~/.config/rofi` )
 3. make sure to import the palette file before your theme configuration. e.g. `@import "catppuccin-mocha"`
 4. optionally you can also Download and copy `catppuccin-default` which is the default Rofi theme with catppuccin colors, then set it as your theme in the config file. `@theme "catppuccin-default"`
