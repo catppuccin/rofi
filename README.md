@@ -35,16 +35,16 @@
 </details>
 
 ## Usage
-1. Download the file with your desired flavour e.g. `catppuccin-mocha.rasi` ( which is found in the repository under the `themes` directory )
-2. Copy it into your rofi config directory ( by default it's `~/.config/rofi` )
-3. make sure to import the palette file before your theme configuration. e.g. `@import "catppuccin-mocha"`
-4. optionally you can also Download and copy `catppuccin-default` which is the default Rofi theme with catppuccin colors, then set it as your theme in the config file. `@theme "catppuccin-default"`
+1. Download your preferred flavor from [`themes/`](./themes/) to your [Rofi configuration directory](https://davatorium.github.io/rofi/CONFIG/#where-does-the-configuration-live).
+2. Import the palette file at the top of your [Rofi configuration file](https://davatorium.github.io/rofi/CONFIG/#create-an-empty-configuration-file). For example, `@import "catppuccin-mocha"`.
+3. Instead of making a custom configuration, you may want to simply use the default Rofi theme with the Catppuccin palette; download [`catppuccin-default.rasi`](./catppuccin-default.rasi) (in addition to your preferred flavor file) to your Rofi configuration directory, and set it as your theme in the main Rofi configuration file with `@theme "catppuccin-default"`.
 
 ## 💝 Thanks to
 
 - [AlphaTechnolog](https://github.com/AlphaTechnolog)
 - [justTOBBI](https://github.com/justTOBBI)
 - [Mayro](https://github.com/0xmayro)
+
 &nbsp;
 
 <p align="center">
