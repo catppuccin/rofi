@@ -11,12 +11,31 @@
     <a href="https://github.com/catppuccin/rofi/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/rofi?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
+## Previews
+
+<details>
+<summary>🌻 Latte</summary>
+<img src="assets/latte.webp"/>
+</details>
+<details>
+<summary>🪴 Frappé</summary>
+<img src="assets/frappe.webp"/>
+</details>
+<details>
+<summary>🌺 Macchiato</summary>
+<img src="assets/macchiato.webp"/>
+</details>
+<details>
+<summary>🌿 Mocha</summary>
+<img src="assets/mocha.webp"/>
+</details>
+
 ## Usage
 1. Download the file with your desired flavour e.g. `catppuccin-mocha.rasi` (which is found 
    in the repository under the `themes` directory )
 2. Copy it into your rofi config directory ( by default it's `~/.config/rofi` )
 3. make sure to import the palette file before your theme configuration. e.g. `@import "catppuccin-mocha"`
-4. optionally you can also copy `catppuccin-default` which is the default Rofi theme with catppuccin colors. then set it as your theme in the config file. `@theme "catppuccin-default"`
+4. optionally you can also Download and copy `catppuccin-default` which is the default Rofi theme with catppuccin colors, then set it as your theme in the config file. `@theme "catppuccin-default"`
 
 ## 💝 Thanks to
 
