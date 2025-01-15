@@ -6,8 +6,8 @@ whiskers:
   filename: "themes/catppuccin-{{flavor.identifier}}.rasi"
 ---
 * {
-  {% for name,color in flavor.colors -%}
-    {{ name }}: #{{ color.hex }};
-  {% endfor -%}
+{%- for name,color in flavor.colors %}
+  {{ name }}: #{{ color.hex }};
+{%- endfor %}
 }
 
