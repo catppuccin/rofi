@@ -1,0 +1,13 @@
+---
+whiskers:
+  version: 2.5.1
+  matrix:
+    - flavor
+  filename: "themes/catppuccin-{{flavor.identifier}}.rasi"
+---
+* {
+{%- for name,color in flavor.colors %}
+  {{ name }}: #{{ color.hex }};
+{%- endfor %}
+}
+

@@ -6,18 +6,13 @@
 </h3>
 
 <p align="center">
-    <a href="https://github.com/catppuccin/rofi/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/rofi?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
-    <a href="https://github.com/catppuccin/rofi/issues"><img src="https://img.shields.io/github/issues/catppuccin/rofi?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
-    <a href="https://github.com/catppuccin/rofi/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/rofi?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+  <a href="https://github.com/catppuccin/rofi/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/rofi?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+  <a href="https://github.com/catppuccin/rofi/issues"><img src="https://img.shields.io/github/issues/catppuccin/rofi?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
+  <a href="https://github.com/catppuccin/rofi/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/rofi?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
-## Themes
-There are multiple Themes available for rofi:
-
-#### [Basic](https://github.com/catppuccin/rofi/tree/main/basic)
-A Catppuccin Port based on [Siduck](https://github.com/siduck)'s dotfiles.
 <p align="center">
-  <img src="assets/res.webp"/>
+  <img src="assets/preview.webp"/>
 </p>
 
 ## Previews
@@ -39,17 +34,16 @@ A Catppuccin Port based on [Siduck](https://github.com/siduck)'s dotfiles.
 <img src="assets/mocha.webp"/>
 </details>
 
-#### [Deathemonic](https://github.com/catppuccin/rofi/tree/main/deathemonic)
-A custom rofi theme based on [Deathemonic](https://github.com/deathemonic/Cat-Dots/tree/v1.4/config/rofi)'s dotfiles including an application launcher, screenshot-, power-, and runmenu.
-
-## Requirements
-- Rofi
-- A font patched with v3.2.1 version of nerdfonts, older or newer likely to work but untested
+## Usage
+1. Download your preferred flavor from [`themes/`](./themes/) to your [Rofi configuration directory](https://davatorium.github.io/rofi/CONFIG/#where-does-the-configuration-live).
+2. Import the palette file at the top of your [Rofi configuration file](https://davatorium.github.io/rofi/CONFIG/#create-an-empty-configuration-file). For example, `@import "catppuccin-mocha"`.
+3. Instead of making a custom configuration, you may want to simply use the default Rofi theme with the Catppuccin palette; download [`catppuccin-default.rasi`](./catppuccin-default.rasi) (in addition to your preferred flavor file) to your Rofi configuration directory, and set it as your theme in the main Rofi configuration file with `@theme "catppuccin-default"`.
 
 ## 💝 Thanks to
 
 - [AlphaTechnolog](https://github.com/AlphaTechnolog)
 - [justTOBBI](https://github.com/justTOBBI)
+- [Mayro](https://github.com/0xmayro)
 
 &nbsp;
 
