@@ -37,7 +37,7 @@
 ## Usage
 1. Download your preferred flavor from [`themes/`](./themes/) to your [Rofi configuration directory](https://davatorium.github.io/rofi/CONFIG/#where-does-the-configuration-live).
 2. Import the palette file at the top of your [Rofi configuration file](https://davatorium.github.io/rofi/CONFIG/#create-an-empty-configuration-file). For example, `@import "catppuccin-mocha"`.
-3. Instead of making a custom configuration, you may want to simply use the default Rofi theme with the Catppuccin palette; download [`catppuccin-default.rasi`](./catppuccin-default.rasi) (in addition to your preferred flavor file) to your Rofi configuration directory, and set it as your theme in the main Rofi configuration file with `@theme "catppuccin-default"`.
+3. Instead of making a custom configuration, you may want to simply use the default Rofi theme with the Catppuccin palette; download [`catppuccin-default.rasi`](./catppuccin-default.rasi) (in addition to your preferred flavor file) to your Rofi configuration directory, uncomment the import statement matching your installed flavor, and set it as your theme in the main Rofi configuration file with `@theme "catppuccin-default"`.
 
 ## 💝 Thanks to
 
